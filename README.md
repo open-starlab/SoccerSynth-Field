@@ -1,8 +1,9 @@
 # SoccerSynth Field: enhancing field detection with synthetic data from virtual soccer simulator
-![Soccer Field Keypoints](lines17.jpg)
-![Soccer Field Keypoints](lines18.jpg)
-![Soccer Field Keypoints](lines19.jpg)
-![Soccer Field Keypoints](lines20.jpg)
+<img src="lines17.jpg" width="24%"/>
+<img src="lines18.jpg" width="24%"/>
+<img src="lines19.jpg" width="24%"/>
+<img src="lines20.jpg" width="24%"/>
+
 
 **Abstract**
 
