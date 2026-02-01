@@ -4,9 +4,9 @@
 
 Field detection in team sports is an essential task in sports video analysis. However, collecting large-scale and diverse real-world datasets for training detection models is often cost and time-consuming. Synthetic datasets, which allow controlled variability in lighting, textures, and camera angles, will be a promising alternative for addressing these problems. This study addresses the challenges of high costs and difficulties in collecting real-world datasets by investigating the effectiveness of pretraining models using synthetic datasets. In this paper, we propose the effectiveness of using a synthetic dataset (SoccerSynth-Field) for soccer field detection. A synthetic soccer field dataset was created to pretrain models, and the performance of these models was compared with models trained on real-world datasets. The results demonstrate that models pretrained on the synthetic dataset exhibit superior performance in detecting soccer fields. This highlights the effectiveness of synthetic data in enhancing model robustness and accuracy, offering a cost-effective and scalable solution for advancing detection tasks in sports field detection.
 
-link to the dataset:
+link to the simulator:
 
-https://drive.google.com/drive/folders/1WG-jx0n4PWB-hujxao0QEaKQB3GPBKjW?usp=drive_link
+[https://drive.google.com/drive/folders/1WG-jx0n4PWB-hujxao0QEaKQB3GPBKjW?usp=drive_link](https://drive.google.com/drive/folders/1Xz_DXZK1GzW3ZJDpKWyN9d3LmcqrrplV?usp=sharing)
 
 
 
