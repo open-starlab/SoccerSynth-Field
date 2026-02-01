@@ -1,8 +1,13 @@
 # SoccerSynth Field: enhancing field detection with synthetic data from virtual soccer simulator
-<img src="lines17.jpg" width="24%"/>
-<img src="lines18.jpg" width="24%"/>
-<img src="lines19.jpg" width="24%"/>
-<img src="lines20.jpg" width="24%"/>
+<p>
+  <img src="lines17.jpg" width="49%"/>
+  <img src="lines18.jpg" width="49%"/>
+</p>
+<p>
+  <img src="lines19.jpg" width="49%"/>
+  <img src="lines20.jpg" width="49%"/>
+</p>
+
 
 
 **Abstract**
